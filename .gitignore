@@ -15,3 +15,6 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Node Modules - install seperately via npm
+/node_modules/

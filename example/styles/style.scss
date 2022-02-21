@@ -1,5 +1,8 @@
-$fff-primary-color: #1DA64A;
+// Toggle global options
+$enable-gradients: true;
+$enable-shadows: true;
 
-h1, h2 {
-  color: $fff-primary-color;
-}
+// Customize Variables
+
+// Import Bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap";
