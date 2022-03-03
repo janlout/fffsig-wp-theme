@@ -11222,5 +11222,15 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.fff-opener {
+  background-image: linear-gradient(rgba(29, 166, 74, 0.65), rgba(27, 115, 64, 0.75)), url("../assets/media/images/opener-placeholder.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fff-opener-title {
+  font-size: 4rem;
+}
 
 /*# sourceMappingURL=style.css.map */
