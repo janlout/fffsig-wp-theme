@@ -15,6 +15,7 @@ $success: $fff-green;
 $info: $fff-blue;
 $warning: $fff-fra-yellow;
 $danger: $fff-red;
+$light:  #F5FCF8;
 $font-family-sans-serif:      'Jost', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 $font-family-monospace:       'Roboto Mono', SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
 $btn-border-radius: 0;
@@ -39,4 +40,7 @@ $btn-border-radius: 0;
 }
 .fff-opener-title{
   font-size: $font-size-base * 4;
+}
+.text-muted{
+  color: $primary !important;
 }
