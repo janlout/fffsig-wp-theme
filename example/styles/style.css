@@ -11164,6 +11164,11 @@ textarea.form-control-lg {
   background-size: cover;
 }
 
+.fff-nav-dummy {
+  margin-top: 4.5rem !important;
+  display: inline-block;
+}
+
 .fff-opener-title {
   font-size: 3.5rem;
 }
