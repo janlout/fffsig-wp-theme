@@ -11172,4 +11172,10 @@ textarea.form-control-lg {
   color: #1da64a !important;
 }
 
+.fff-img-no-distort {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 /*# sourceMappingURL=style.css.map */
