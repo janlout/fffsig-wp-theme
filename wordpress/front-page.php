@@ -23,7 +23,7 @@ get_header(); ?>
                     <div class="card-body">
                         <h5 class="card-title fw-bold text-secondary"><?php echo get_theme_mod('first_widget_name', ''); ?></h5>
                         <p><?php echo get_theme_mod('first_widget_text', ''); ?></p>
-                        <a href="" class="card-link link-secondary text-decoration-none fw-bold"><?php echo get_theme_mod('first_widget_link', ''); ?></a>
+                        <a href="<?php echo get_theme_mod('first_widget_link', ''); ?>" class="card-link link-secondary text-decoration-none fw-bold"><?php echo get_theme_mod('first_widget_link_name', ''); ?></a>
                     </div>
                 </div>
             </div>
