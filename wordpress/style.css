@@ -7,7 +7,7 @@ Description: Ein Wordpress Theme für FridaysForFuture Sigmaringen.
 Requires at least: 5.9
 Tested up to: 5.9
 Requires PHP: 5.6
-Version: 0.1.7
+Version: 0.1.8
 License: MIT License
 License URI: https://spdx.org/licenses/MIT.html
 Text Domain: fffsigwptheme
@@ -18,6 +18,6 @@ FridaysForFuture Sigmaringen WordPress Theme is distributed under the terms of t
 
 
 /*
-Dont use this file for custom styles. 
-use '/assets/styles/custom-styles.css' for custom styles.
+* Dont use this file for custom styles. 
+* use '/assets/styles/custom-styles.css' for custom styles.
 */
