@@ -34,8 +34,8 @@ get_header(); ?>
                     <div class="card-body">
                         <h5 class="card-title fw-bold text-secondary"><?php echo get_theme_mod('second_widget_name', ''); ?></h5>
                         <p><?php echo get_theme_mod('second_widget_text', ''); ?></p>
-                        <a href="<?php echo get_theme_mod('second_widget_1_link', ''); ?>"" class=" card-link link-secondary text-decoration-none fw-bold">Mitmachen . . .</a>
-                        <a href="<?php echo get_theme_mod('second_widget_2_link', ''); ?>"" class=" card-link link-secondary text-decoration-none fw-bold">Aktionen . . .</a>
+                        <a href="<?php echo get_theme_mod('second_widget_1_link', ''); ?>"" class=" card-link link-secondary text-decoration-none fw-bold"><?php echo get_theme_mod('second_widget_1_link_name', ''); ?></a>
+                        <a href="<?php echo get_theme_mod('second_widget_2_link', ''); ?>"" class=" card-link link-secondary text-decoration-none fw-bold"><?php echo get_theme_mod('second_widget_2_link_name', ''); ?></a>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@ get_header(); ?>
                     <div class="card-body">
                         <h5 class="card-title fw-bold text-secondary"><?php echo get_theme_mod('third_widget_name', ''); ?></h5>
                         <p><?php echo get_theme_mod('third_widget_text', ''); ?></p>
-                        <a href="<?php echo get_theme_mod('third_widget_link', ''); ?>" class="card-link link-secondary text-decoration-none fw-bold">Blog . . .</a>
+                        <a href="<?php echo get_theme_mod('third_widget_link', ''); ?>" class="card-link link-secondary text-decoration-none fw-bold"><?php echo get_theme_mod('third_widget_link_name', ''); ?></a>
                     </div>
                 </div>
             </div>
